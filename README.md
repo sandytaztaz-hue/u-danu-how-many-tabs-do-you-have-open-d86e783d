@@ -1,5 +1,9 @@
 # How Many Tabs Do You Have Open?
 
+[![make.fun · u-danu-how-many-tabs-do-you-have-open-d86e783d](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/sandytaztaz-hue/u-danu-how-many-tabs-do-you-have-open-d86e783d/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/sandytaztaz-hue/u-danu-how-many-tabs-do-you-have-open-d86e783d/reward.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+
 [![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
 [![Reward $5](https://img.shields.io/badge/reward-%245-22c55e)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
 [![Deadline Nov 26, 2026](https://img.shields.io/badge/deadline-Nov%2026%2C%202026-eab308)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
